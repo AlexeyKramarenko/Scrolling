@@ -1,0 +1,8 @@
+﻿
+
+enum Direction
+{
+    ToLeft,
+    ToRight
+}
+
